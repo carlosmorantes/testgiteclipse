@@ -9,6 +9,7 @@ public class Demo {
 		System.out.println("doing changes");
 		System.out.println("after aplying hard reset to the last commit");
 		System.out.println("optimal changes for commit number 6");
+		System.out.println("7th commit");
 
 	}
 
