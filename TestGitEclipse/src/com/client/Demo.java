@@ -6,6 +6,7 @@ public class Demo {
 		System.out.println("first commit");
 		System.out.println("second commit");
 		System.out.println("33333 commit");
+		System.out.println("doing changes");
 
 	}
 
